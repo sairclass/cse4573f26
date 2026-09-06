@@ -20,7 +20,7 @@ Many materials are derived from [Prof. David Doermann](https://cse.buffalo.edu/~
 @misc{chen26fcvip,
   author       = {Chen Wang},
   title        = {Introduction to Computer Vision and Image Processing},
-  howpublished = {https://sairlab.org/cse4573s26},
+  howpublished = {https://sairlab.org/cse4573f26},
   month        = {Aug},
   year         = {2026}
 }
